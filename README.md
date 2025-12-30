@@ -297,7 +297,7 @@ See [docs/IMPLEMENTATION_SUMMARY.md](docs/IMPLEMENTATION_SUMMARY.md) for detaile
 
 ## License
 
-[Add your license here]
+- Open Source
 
 ## Support
 
